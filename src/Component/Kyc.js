@@ -1,5 +1,6 @@
 import React from 'react'
 import {FaGreaterThan} from "react-icons/fa"
+import Vector from "../image/vector.png"
 import "./Kyc.css"
 
 function Kyc() {
@@ -38,7 +39,7 @@ function Kyc() {
 
             <div className="flexing">
             <p>Contact Info</p>
-            <img src="../../img/vector.png" alt="vector"/>
+            <img src={Vector} alt="vector"/>
             </div>
 
             {/*contact info*/}
