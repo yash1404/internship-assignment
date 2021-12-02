@@ -38,7 +38,7 @@ function Kyc() {
 
             <div className="flexing">
             <p>Contact Info</p>
-            <img src="../../img/Vector.png" alt="vector"/>
+            <img src="../../img/vector.png" alt="vector"/>
             </div>
 
             {/*contact info*/}

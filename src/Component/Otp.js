@@ -11,7 +11,7 @@ function Otp() {
           <div className="header">
 
             <div className="logo">
-              <img src="../../img/logo (1).png"></img>
+              <img src="../../img/logo.png"></img>
             </div>
 
             <div className="login">
@@ -75,7 +75,7 @@ function Otp() {
               </div>
               
               <div className="rightimg">
-              <img src ="../../img/Group 99.png"></img>
+              <img src ="../../img/group.png"></img>
               </div>
 
               <div className="bottom">
